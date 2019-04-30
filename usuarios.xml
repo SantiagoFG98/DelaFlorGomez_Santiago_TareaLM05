@@ -13,7 +13,7 @@
     <usuario id="3">
         <nombre>Pepe</nombre>
         <apellidos>Garcia Sanchez</apellidos>
-        <fechaNacimiento>11-04-1997</fechaNacimiento>
+        <fechaNacimiento>11-05-1997</fechaNacimiento>
     </usuario>
     <usuario id="4">
         <nombre>Marta</nombre>
