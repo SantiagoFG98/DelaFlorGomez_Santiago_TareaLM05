@@ -2,7 +2,7 @@
 <usuarios>
     <usuario id="1">
         <nombre>Santiago</nombre>
-        <apellidos>De la Flor Gomez</apellidos>
+        <apellidos>FG</apellidos>
         <fechaNacimiento>28-02-1998</fechaNacimiento>
     </usuario>
     <usuario id="2">
@@ -14,5 +14,10 @@
         <nombre>Pepe</nombre>
         <apellidos>Garcia Sanchez</apellidos>
         <fechaNacimiento>11-04-1997</fechaNacimiento>
+    </usuario>
+    <usuario id="4">
+        <nombre>Marta</nombre>
+        <apellidos>Perez Sanchez</apellidos>
+        <fechaNacimiento>10-09-1997</fechaNacimiento>
     </usuario>
 </usuarios>
