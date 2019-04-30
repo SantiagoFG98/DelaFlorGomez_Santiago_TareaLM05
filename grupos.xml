@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grupos>
+    <grupo id="1">
+        <nombre>Grupo 1</nombre>
+    </grupo>
+    <grupo id="2">
+        <nombre>Grupo 2</nombre>
+    </grupo>
+</grupos>
